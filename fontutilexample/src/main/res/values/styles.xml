@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextViewCustomFont">
+        <attr name="font_name" />
+    </declare-styleable>
+
+    <declare-styleable name="RadioButtonCustomFont">
+        <attr name="font_name" />
+    </declare-styleable>
+
+    <declare-styleable name="ButtonCustomFont">
+        <attr name="font_name" />
+    </declare-styleable>
+
+    <declare-styleable name="AutoCompleteTextViewCustomFont">
+        <attr name="font_name" />
+    </declare-styleable>
+
+    <declare-styleable name="CheckBoxCustomFont">
+        <attr name="font_name" />
+    </declare-styleable>
+
+    <declare-styleable name="EditTextCustomFont">
+        <attr name="font_name" />
+    </declare-styleable>
+
+</resources>

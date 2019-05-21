@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FontUtilExample</string>
+
+    <string name="Ubuntu_Bold">Ubuntu_Bold.ttf</string>
+    <string name="Ubuntu_BoldItalic">Ubuntu_BoldItalic.ttf</string>
+    <string name="Ubuntu_Italic">Ubuntu_Italic.ttf</string>
+    <string name="Ubuntu_Light">Ubuntu_Light.ttf</string>
+    <string name="Ubuntu_LightItalic">Ubuntu_LightItalic.ttf</string>
+    <string name="Ubuntu_Medium">Ubuntu_Medium.ttf</string>
+    <string name="Ubuntu_MediumItalic">Ubuntu_MediumItalic.ttf</string>
+    <string name="Ubuntu_Regular">Ubuntu_Regular.ttf</string>
+
+</resources>
